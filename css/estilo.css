@@ -3,6 +3,8 @@
     padding: 0px;
 }
 body{
+    width:1000px;
+    height:1110px;
     font-family: 'Calibri', Arial, Helvetica;
 }
 header{
